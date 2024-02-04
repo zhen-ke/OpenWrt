@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  SOURCE_URL: https://github.com/coolsnowwolf/lede
+  SOURCE_URL: https://github.com/coolsnowwolf/lede/tree/20230609
   SOURCE_BRANCH: master
   CONFIG_FILE: configs/x86_64-mini.config
   DIY_SCRIPT: diy-mini.sh
