@@ -14,7 +14,7 @@ on:
 env:
   SOURCE_URL: https://github.com/openwrt/openwrt
   SOURCE_BRANCH: main
-  CONFIG_FILE: configs/x86_64-mini.config
+  CONFIG_FILE: configs/x86_64-official.config
   DIY_SCRIPT: diy-mini.sh
   CLASH_KERNEL: amd64
   UPLOAD_BIN_DIR: false
